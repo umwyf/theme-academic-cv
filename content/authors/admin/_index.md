@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴宇凡
+title: Yufan Wu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu

@@ -12,8 +12,8 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Download CV
+        url: https://drive.google.com/file/d/1o_hkMSATCz364Lcl5ueXbwDth4i-YZmv/view?usp=sharing
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
